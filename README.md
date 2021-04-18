@@ -8,7 +8,7 @@
 :blossom:  I am currunelty working on 
 - making resposive designs using semantic HTML & CSS
 
-💬 You can ask me about; 
+💬 You can ask me about 
 - Business Operations 
 - People Management 
 
