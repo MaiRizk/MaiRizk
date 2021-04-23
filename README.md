@@ -1,7 +1,7 @@
 ### Hi, My name is Mai Rizk 
 
 🌱 I am currently learning 
-CSS Frameworks;
+ * CSS Frameworks;
 - Foundation 
 - Tailwind CSS
 
