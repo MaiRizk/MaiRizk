@@ -1,12 +1,12 @@
 ### Hi, My name is Mai Rizk 
 
 🌱 I am currently learning 
- * CSS Frameworks;
-- Foundation 
-- Tailwind CSS
+ * JavaScript
+ * Webpack
 
 
 :blossom:  I am currunelty working on 
+- buliding projects using webpack
 - making resposive designs using semantic HTML & CSS
 - making responsive desings using bootstrap
 
