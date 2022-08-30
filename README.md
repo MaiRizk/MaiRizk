@@ -1,8 +1,8 @@
 ### Hi, My name is Mai Rizk 
 
 🌱 I am currently learning 
- * React
  * Unit Testing
+ * Ruby
 
 
 :blossom:  I am currunelty working on 
@@ -15,4 +15,4 @@
 - CSS Frameworks
 - Javascript
 - Webpack
-
+- React JS
